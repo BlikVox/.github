@@ -1,4 +1,9 @@
-## Hi there 👋
+# What is BlikVox?
+Vantan Game Academy の授業で使用したプロジェクト置き場
+
+## 注意事項
+原則、当該年度のリポジトリのみ公開される
+
 
 <!--
 
